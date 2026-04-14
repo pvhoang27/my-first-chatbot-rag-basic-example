@@ -1,0 +1,22 @@
+(rag-chatbot) PS E:\rag-chatbot> uv run evulate2.py
+============================================================
+📊 ĐÁNH GIÁ RAG PIPELINE (LLM-as-a-Judge)
+============================================================
+
+[1/3] Nhân viên chính thức dưới 5 năm có bao nhiêu ngày phép?
+  Bot trả lời: 12 ngày phép/năm.
+  Giám khảo: Chấm 10000% - Lý do: Câu trả lời cung cấp chính xác và đầy đủ thông tin cốt lõi về số ngày phép theo yêu cầu của đáp án mẫu.
+  Thời gian: 2.8s  ✅
+
+[2/3] Lương được thanh toán vào ngày mấy?
+  Bot trả lời: Lương được thanh toán vào **ngày 10 hàng tháng**.
+  Giám khảo: Chấm 10000% - Lý do: Câu trả lời hoàn toàn chính xác và trùng khớp với nội dung của đáp án mẫu.
+  Thời gian: 2.5s  ✅
+
+[3/3] Công ty có mấy văn phòng?
+  Bot trả lời: Công ty có 2 văn phòng (tại Hà Nội và TP. Hồ Chí Minh).
+  Giám khảo: Chấm 10000% - Lý do: Câu trả lời hoàn toàn chính xác, đầy đủ thông tin và khớp với nội dung của đáp án mẫu.
+  Thời gian: 2.3s  ✅
+
+============================================================
+📈 TỔNG KẾT: 100% ĐỘ CHÍNH XÁC
