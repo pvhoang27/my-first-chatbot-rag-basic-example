@@ -1,0 +1,26 @@
+{
+  "average_score": 1.0,
+  "results": [
+    {
+      "question": "Nhân viên chính thức dưới 5 năm có bao nhiêu ngày phép?",
+      "bot_answer": "12 ngày phép/năm.",
+      "score": 1.0,
+      "reason": "Câu trả lời cung cấp chính xác và đầy đủ thông tin cốt lõi về số ngày phép theo yêu cầu của đáp án mẫu.",
+      "latency": 2.81
+    },
+    {
+      "question": "Lương được thanh toán vào ngày mấy?",
+      "bot_answer": "Lương được thanh toán vào **ngày 10 hàng tháng**.",
+      "score": 1.0,
+      "reason": "Câu trả lời hoàn toàn chính xác và trùng khớp với nội dung của đáp án mẫu.",
+      "latency": 2.46
+    },
+    {
+      "question": "Công ty có mấy văn phòng?",
+      "bot_answer": "Công ty có 2 văn phòng (tại Hà Nội và TP. Hồ Chí Minh).",
+      "score": 1.0,
+      "reason": "Câu trả lời hoàn toàn chính xác, đầy đủ thông tin và khớp với nội dung của đáp án mẫu.",
+      "latency": 2.27
+    }
+  ]
+}
