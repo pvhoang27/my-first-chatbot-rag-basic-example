@@ -1,0 +1,35 @@
+{
+  "average_score": 1.0,
+  "results": [
+    {
+      "question": "Nhân viên chính thức dưới 5 năm có bao nhiêu ngày phép?",
+      "answer": "12 ngày phép/năm.",
+      "score": 1.0,
+      "latency": 2.42
+    },
+    {
+      "question": "Lương được thanh toán vào ngày mấy?",
+      "answer": "Lương được thanh toán vào **ngày 10 hàng tháng**.",
+      "score": 1.0,
+      "latency": 2.34
+    },
+    {
+      "question": "Công ty có mấy văn phòng?",
+      "answer": "Công ty có 2 văn phòng (tại Hà Nội và TP. Hồ Chí Minh).",
+      "score": 1.0,
+      "latency": 1.88
+    },
+    {
+      "question": "Budget học tập mỗi năm là bao nhiêu?",
+      "answer": "5 triệu đồng/năm.",
+      "score": 1.0,
+      "latency": 2.47
+    },
+    {
+      "question": "Giờ làm việc bắt đầu từ mấy giờ?",
+      "answer": "8:30.",
+      "score": 1.0,
+      "latency": 2.15
+    }
+  ]
+}
