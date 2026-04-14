@@ -1,0 +1,46 @@
+# Tài liệu nội bộ - Công ty TechVN
+
+## Giới thiệu công ty
+Công ty TechVN được thành lập năm 2018 tại Hà Nội, chuyên phát triển các giải pháp phần mềm cho doanh nghiệp vừa và nhỏ tại Việt Nam. Hiện tại công ty có hơn 120 nhân viên làm việc tại 2 văn phòng: Hà Nội và TP. Hồ Chí Minh.
+
+## Sản phẩm
+- **TechVN ERP**: Phần mềm quản lý doanh nghiệp tích hợp kế toán, kho hàng, nhân sự.
+- **TechVN CRM**: Hệ thống quản lý quan hệ khách hàng cho đội sales.
+- **TechVN HRM**: Module quản lý nhân sự và chấm công.
+
+## Chính sách nhân sự
+
+### Nghỉ phép
+- Nhân viên thử việc (dưới 2 tháng): không có phép năm.
+- Nhân viên chính thức dưới 5 năm: 12 ngày phép/năm.
+- Nhân viên chính thức trên 5 năm: 15 ngày phép/năm.
+- Phép thai sản: theo quy định nhà nước (6 tháng).
+
+### Lương thưởng
+- Lương được thanh toán vào ngày 10 hàng tháng.
+- Thưởng KPI: xét theo quý, tối đa 30% lương cơ bản.
+- Thưởng tết: tháng lương thứ 13, phát trước Tết Nguyên Đán 1 tuần.
+- Review lương: 2 lần/năm vào tháng 6 và tháng 12.
+
+### Giờ làm việc
+- Thứ 2 đến thứ 6: 8:30 - 17:30.
+- Nghỉ trưa: 12:00 - 13:00.
+- Làm thêm giờ được tính 150% ngày thường, 200% cuối tuần, 300% ngày lễ.
+
+## Quy trình onboarding
+1. Ngày 1: Nhận máy tính, tài khoản email, Slack, Jira.
+2. Tuần 1: Training nội bộ về sản phẩm và quy trình làm việc.
+3. Tháng 1: Được assign mentor, bắt đầu làm task thật.
+4. Tháng 2: Đánh giá kết thúc thử việc.
+
+## Phúc lợi
+- Bảo hiểm sức khỏe cao cấp (Bảo Việt) cho nhân viên chính thức.
+- Team building 2 lần/năm.
+- Budget học tập: 5 triệu/năm cho khóa học và sách.
+- Free snack và coffee tại văn phòng.
+- Laptop Macbook Pro cho kỹ sư phần mềm.
+
+## Văn hóa công ty
+TechVN đề cao sự minh bạch và tự chủ. Mỗi team có quyền tự quyết về kỹ thuật trong phạm vi của mình. Chúng tôi khuyến khích thử nghiệm ý tưởng mới và chấp nhận thất bại có kiểm soát.
+
+Hàng tuần có "All-hands meeting" vào sáng thứ 2 để cập nhật tình hình toàn công ty.
